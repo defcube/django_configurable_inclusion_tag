@@ -5,7 +5,7 @@ readme = open('README.md').read()
 
 setup(
     name='django-configurable-inclusion-tag',
-    version='0.1.0',
+    version='0.1.1',
     author_email='gattster@gmail.com',
     author='Philip Gatt',
     description="A smart template inclusion tag",
