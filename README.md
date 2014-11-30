@@ -10,4 +10,4 @@ Define a django template tag, and wrap it with this decorator like below:
             return None
         return 'foo.html', context
 
-In a template, call the template tag(example: `{% maybe_show_foo %}`).
+In a template, call the template tag(example: `{% maybe_show_foo %}` ).
